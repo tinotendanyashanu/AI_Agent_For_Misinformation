@@ -1,0 +1,22 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+
+# Model files and large datasets
+*.h5
+*.ckpt
+*.pt
+*.pth
+datasets/
+models/
+
+# Logs
+*.log
+
+# Other
+.DS_Store
+.env
